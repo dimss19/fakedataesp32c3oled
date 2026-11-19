@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+include/secrets.h
+include/rfid_tags_embedded.h
+.*.txt
+*.txt
+*.bin
+*.elf
+*.pem
